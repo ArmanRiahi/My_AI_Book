@@ -1,2 +1,6 @@
 \contentsline {chapter}{\numberline {1} مقدمه‌ای بر هوش مصنوعی }{1}{}%
 \contentsline {section}{\numberline {1.1}تعریف هوش مصنوعی (چهار رویکرد)}{1}{}%
+\contentsline {section}{\numberline {1.2} مبانی هوش مصنوعی (ریشه‌های تاریخی) }{1}{}%
+\contentsline {section}{\numberline {1.3} تاریخچه هوش مصنوعی (خلاصه ادوار) }{2}{}%
+\contentsline {section}{\numberline {1.4}وضعیت فعلی}{2}{}%
+\contentsline {chapter}{\numberline {2}عامل‌های هوشمند}{5}{}%

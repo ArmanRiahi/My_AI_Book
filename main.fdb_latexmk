@@ -1,0 +1,22 @@
+# Fdb version 4
+["pdflatex"] 1771602926.50262 "/home/chevil/Drive_A/1405/Artificial_ Intelligence/Books/EnjilOfAI/main.tex" "main.pdf" "main" 1771602926.82649 2
+  "/home/chevil/Drive_A/1405/Artificial_ Intelligence/Books/EnjilOfAI/main.tex" 1771602925.37948 971 1f44a7e7ea0f6eae66c310255bdd0317 ""
+  "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1767555874 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1767555874 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
+  "/usr/share/texmf-dist/tex/generic/iftex/iftex.sty" 1767555874 7984 7dbb9280f03c0a315425f1b4f35d43ee ""
+  "/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty" 1767555874 1057 525c2192b5febbd8c1f662c9468335bb ""
+  "/usr/share/texmf-dist/tex/latex/base/bk11.clo" 1767555874 8303 39aa0e3e266379e4557d5fa2b9b916a5 ""
+  "/usr/share/texmf-dist/tex/latex/base/book.cls" 1767555874 23268 24ec0168da5de0ccc9a2593a79692068 ""
+  "/usr/share/texmf-dist/tex/latex/geometry/geometry.sty" 1767555874 41601 9cf6c5257b1bc7af01a58859749dd37a ""
+  "/usr/share/texmf-dist/tex/latex/graphics/keyval.sty" 1767555874 2671 70891d50dac933918b827d326687c6e8 ""
+  "/usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty" 1767555874 48766 87a17a4ef312a39cd43896e34a679a56 ""
+  "/usr/share/texmf-dist/tex/xelatex/xepersian/xepersian.sty" 1767555874 49805 f67bca6d727576a20d89ab18a4ce0569 ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1767555874 42087 b0f9697c952c8f5a8eede4134282cb0d ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1771018985 2110255 6d14372a1373818dc7441d355dff376a ""
+  "main.aux" 1771602926.50046 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.tex" 1771602925.37948 971 1f44a7e7ea0f6eae66c310255bdd0317 ""
+  (generated)
+  "main.aux"
+  "main.log"
+  "main.pdf"
+  (rewritten before read)
