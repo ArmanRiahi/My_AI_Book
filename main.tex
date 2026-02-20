@@ -1,0 +1,35 @@
+\documentclass[11pt, a4paper, twoside]{book}
+\usepackage{titlesec}
+
+\usepackage{xepersian}
+% Font Setup (Matches your previous settings)
+\settextfont[
+    Path = fonts/,
+    Scale = 1.0,
+    Extension = .ttf,
+    BoldFont = *Bd,
+    ItalicFont = *It,
+    BoldItalicFont = *BdIt
+]{XB Niloofar}
+
+\setdigitfont[Path = fonts/, Extension = .ttf]{XB Niloofar}
+
+\title{انجیل هوش مصنوعی}
+\author{آرمان ریاحی}
+\date{\today}
+
+
+\begin{document}
+    \frontmatter
+    \maketitle
+    \tableofcontents
+    % \include{translator_preface}
+
+    
+    \mainmatter
+    %%%%%% Start chapter_1 %%%%%%
+    \include{chapters/chapter_1} 
+
+    \backmatter
+    % \include{references}
+\end{document}

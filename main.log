@@ -1,0 +1,533 @@
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2026/dev/Arch Linux) (preloaded format=xelatex 2026.2.14)  20 FEB 2026 01:54
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/share/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count192
+\c@chapter=\count193
+\c@section=\count194
+\c@subsection=\count195
+\c@subsubsection=\count196
+\c@paragraph=\count197
+\c@subparagraph=\count198
+\c@figure=\count199
+\c@table=\count266
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(/usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box52
+\beforetitleunit=\skip51
+\aftertitleunit=\skip52
+\ttl@plus=\dimen142
+\ttl@minus=\dimen143
+\ttl@toksa=\toks17
+\titlewidth=\dimen144
+\titlewidthlast=\dimen145
+\titlewidthfirst=\dimen146
+)
+(/usr/share/texmf-dist/tex/xelatex/xepersian/xepersian.sty
+Package: xepersian 2025/02/02 v25.2.2 (Release Persian Gate) Persian typesettin
+g in XeLaTeX
+
+****************************************************
+* 
+* xepersian package (Persian for LaTeX, using XeTeX engine)
+* 
+* Description: The package supports Persian
+* typesetting, using fonts provided in the
+* distribution.
+* 
+* Copyright (c) 2008--2025 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub Organization
+* 
+* v25.2.2 (Release Persian Gate), 2025/02/02
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/xepersian
+* 
+* Issue tracker: https://github.com/xepersian/xepersian/issues
+* 
+* Discussions: https://github.com/xepersian/xepersian/discussions
+* 
+* Primary author of xepersian package: Vafa Khalighi.
+* 
+****************************************************
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-01-18 L3 programming layer (loader) 
+
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
+\g__graphics_track_int=\count267
+\l__pdf_internal_box=\box53
+\g__pdf_backend_annotation_int=\count268
+\g__pdf_backend_link_int=\count269
+))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count270
+\l__fontspec_language_int=\count271
+\l__fontspec_strnum_int=\count272
+\l__fontspec_tmp_int=\count273
+\l__fontspec_tmpa_int=\count274
+\l__fontspec_tmpb_int=\count275
+\l__fontspec_tmpc_int=\count276
+\l__fontspec_em_int=\count277
+\l__fontspec_emdef_int=\count278
+\l__fontspec_strong_int=\count279
+\l__fontspec_strongdef_int=\count280
+\l__fontspec_tmpa_dim=\dimen147
+\l__fontspec_tmpb_dim=\dimen148
+\l__fontspec_tmpc_dim=\dimen149
+
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
+Package: xepersian-persiancal 2025/01/01 v0.3 provides Persian calendar
+\XePersian@i=\count281
+\XePersian@y=\count282
+\XePersian@m=\count283
+\XePersian@d=\count284
+\XePersian@latini=\count285
+\XePersian@persiani=\count286
+\XePersian@latinii=\count287
+\XePersian@persianii=\count288
+\XePersian@latiniii=\count289
+\XePersian@persianiii=\count290
+\XePersian@latiniv=\count291
+\XePersian@persianiv=\count292
+\XePersian@latinv=\count293
+\XePersian@persianv=\count294
+\XePersian@latinvi=\count295
+\XePersian@persianvi=\count296
+\XePersian@latinvii=\count297
+\XePersian@persianvii=\count298
+\XePersian@latinviii=\count299
+\XePersian@persianviii=\count300
+\XePersian@latinix=\count301
+\XePersian@persianix=\count302
+\XePersian@latinx=\count303
+\XePersian@persianx=\count304
+\XePersian@latinxi=\count305
+\XePersian@persianxi=\count306
+\XePersian@latinxii=\count307
+\XePersian@persianxii=\count308
+\XePersian@persianxiii=\count309
+\XePersian@temp=\count310
+\XePersian@temptwo=\count311
+\XePersian@tempthree=\count312
+\XePersian@yModHundred=\count313
+\XePersian@thirtytwo=\count314
+\XePersian@dn=\count315
+\XePersian@sn=\count316
+\XePersian@mminusone=\count317
+)
+(/usr/share/texmf-dist/tex/xelatex/xepersian/unicode-persianmath.sty
+Package: unicode-persianmath 2025/02/02 v1.2.3 Unicode Persian math
+)
+(/usr/share/texmf-dist/tex/xelatex/bidi/bidi.sty
+Package: bidi 2025/02/02 v25.2.2 (Release Maryam Mirzakhani) Bidirectional type
+setting in plain TeX and LaTeX
+
+****************************************************
+* 
+* bidi package (Bidirectional typesetting in
+* plain TeX and LaTeX, using XeTeX engine)
+* 
+* Description: A convenient interface for
+* typesetting bidirectional texts in plain TeX
+* and LaTeX. The package includes adaptations
+* for use with many other commonly-used packages.
+* 
+* Copyright (c) 2007--2025 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub organization
+* 
+* v25.2.2 (Release Maryam Mirzakhani), 2025/02/02
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/bidi
+* 
+* Issue tracker: https://github.com/xepersian/bidi/issues
+* 
+* Discussions: https://github.com/xepersian/bidi/discussions
+* 
+* Primary author of bidi package: Vafa Khalighi.
+* 
+****************************************************
+(/usr/share/texmf-dist/tex/xelatex/bidi/biditools.sty
+Package: biditools 2025/02/02 v2.7 Programming tools for bidi package
+\@bidi@envbody=\toks18
+\@bidi@emptytoks=\toks19
+\bidi@poscount=\count318
+\bidi@tempcountb=\count319
+\bidi@temptoksa=\toks20
+\bidi@temptoksb=\toks21
+\bidi@dummies=\count320
+\bidi@are@these@correct=\toks22
+\bidi@toks@lista=\toks23
+\bidi@toks@listb=\toks24
+\bidi@stack@length=\count321
+\bidi@empty@stack=\toks25
+\bidi@looprepeat@depth=\count322
+)
+(/usr/share/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
+
+(/usr/share/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2023-09-14 v2.35 Module base for zref (HO)
+
+(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+(/usr/share/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count323
+Package zref Info: New property: abspage on input line 67.
+)
+\@bidi@copyins@=\insert252
+\bidi@typesethour=\count324
+\bidi@typesetminute=\count325
+
+(/usr/share/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
+File: latex-xetex-bidi.def 2025/01/03 v1.5.2 bidi adaptations for `latex.ltx' f
+or XeTeX engine
+\bidi@n@everypar=\toks26
+LaTeX Info: Redefining \centerline on input line 316.
+LaTeX Info: Redefining \leftline on input line 325.
+LaTeX Info: Redefining \rightline on input line 326.
+LaTeX Info: Redefining \underline on input line 334.
+\bidi@column@check@number=\count326
+
+(/usr/share/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
+File: footnote-xetex-bidi.def 2024/12/14 v1.3 bidi footnote macros for XeTeX en
+gine
+\c@footdir@label=\count327
+\footdir@toks=\toks27
+)
+(/usr/share/texmf-dist/tex/xelatex/bidi/titlesec-xetex-bidi.def
+File: titlesec-xetex-bidi.def 2010/07/25 v0.1 bidi adaptations for titlesec pac
+kage for XeTeX engine
+))
+\bidi@digits=\count328
+\bidi@digits@charclass=\XeTeXcharclass1
+\bidi@sepmark@charclass=\XeTeXcharclass2
+)
+\xepersian@tcl=\count329
+\xepersian@ilg=\dimen150
+\xepersian@strutilg=\dimen151
+
+(/usr/share/texmf-dist/tex/xelatex/xepersian/footnote-xetex-bidi-xetex-xepersia
+n.def
+File: footnote-xetex-bidi-xetex-xepersian.def 2017/08/09 v0.6 xepersian adaptat
+ions for footnotes for XeTeX engine
+) (/usr/share/texmf-dist/tex/xelatex/xepersian/book-xetex-xepersian.def
+File: book-xetex-xepersian.def 2010/07/25 v0.2 xepersian adaptations for book c
+lass for XeTeX engine
+)
+\xepersian@toks=\toks28
+)
+
+Package fontspec Info: 
+(fontspec)             Font family 'lmroman10-regular(0)' created for font
+(fontspec)             'lmroman10-regular' with options
+(fontspec)             [Ligatures=TeX,Path,BoldFont={lmroman10-bold},BoldItalic
+Font={lmroman10-bolditalic},ItalicFont={lmroman10-italic},SmallCapsFont={lmroma
+ncaps10-regular},SlantedFont={lmromanslant10-regular},BoldSlantedFont={lmromans
+lant10-bold}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[lmroman10-regular]/OT:script=latn;language=dflt;map
+ping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[lmroman10-bold]/OT:script=latn;language=dflt;mappin
+g=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[lmroman10-italic]/OT:script=latn;language=dflt;mapp
+ing=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'slanted' (m/sl) with NFSS spec.:
+(fontspec)             <->"[lmromanslant10-regular]/OT:script=latn;language=dfl
+t;mapping=tex-text;"
+(fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[lmroman10-bolditalic]/OT:script=latn;language=dflt;
+mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
+(fontspec)             <->"[lmromanslant10-bold]/OT:script=latn;language=dflt;m
+apping=tex-text;"
+(fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             XB Niloofar scale = 1.0.
+
+
+Package fontspec Info: 
+(fontspec)             XB Niloofar scale = 1.0.
+
+
+Package fontspec Info: 
+(fontspec)             XB NiloofarBd scale = 1.0.
+
+
+Package fontspec Info: 
+(fontspec)             XB NiloofarIt scale = 1.0.
+
+
+Package fontspec Info: 
+(fontspec)             XB NiloofarBdIt scale = 1.0.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'XBNiloofar(0)' created for font 'XB
+(fontspec)             Niloofar' with options
+(fontspec)             [RawFeature={script=arab},Ligatures=PersianTeX,Path =
+(fontspec)             fonts/,Scale = 1.0,Extension = .ttf,BoldFont =
+(fontspec)             *Bd,ItalicFont = *It,BoldItalicFont = *BdIt].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[1.0]"[fonts/XB
+(fontspec)             Niloofar.ttf]/OT:script=latn;language=dflt;script=arab;m
+apping=persian-tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[1.0]"[fonts/XB
+(fontspec)             NiloofarBd.ttf]/OT:script=latn;language=dflt;script=arab
+;mapping=persian-tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->s*[1.0]"[fonts/XB
+(fontspec)             NiloofarIt.ttf]/OT:script=latn;language=dflt;script=arab
+;mapping=persian-tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1.0]"[fonts/XB
+(fontspec)             NiloofarBdIt.ttf]/OT:script=latn;language=dflt;script=ar
+ab;mapping=persian-tex-text;"
+
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
+(Font)              scaled to size 10.95pt on input line 14.
+
+Package fontspec Info: 
+(fontspec)             Font family 'XBNiloofar(1)' created for font 'XB
+(fontspec)             Niloofar' with options [Ligatures=PersianTeX,Path =
+(fontspec)             fonts/,Extension = .ttf].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"[fonts/XB
+(fontspec)             Niloofar.ttf]/OT:script=latn;language=dflt;mapping=persi
+an-tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'XBNiloofar(2)' created for font 'XB
+(fontspec)             Niloofar' with options [Path = fonts/,Extension =
+(fontspec)             .ttf].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"[fonts/XB
+(fontspec)             Niloofar.ttf]/OT:script=latn;language=dflt;"
+
+Package unicode-persianmath Info: DefiningthedefaultPersianmathdigitsfontas'XB 
+Niloofar' on input line 16.
+\sympersianoperators=\mathgroup4
+\sympersianoperatorsbf=\mathgroup5
+\sympersianoperatorsit=\mathgroup6
+
+(/usr/share/texmf-dist/tex/xelatex/bidi/book-xetex-bidi.def
+File: book-xetex-bidi.def 2025/02/02 v1.2 bidi adaptations for standard book cl
+ass for XeTeX engine
+)
+No file main.aux.
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
+(Font)              scaled to size 17.28pt on input line 24.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 24.
+
+LaTeX Font Warning: Font shape `TU/XBNiloofar(2)/bx/n' undefined
+(Font)              using `TU/XBNiloofar(2)/m/n' instead on input line 24.
+
+
+LaTeX Font Warning: Font shape `TU/XBNiloofar(2)/m/it' undefined
+(Font)              using `TU/XBNiloofar(2)/m/n' instead on input line 24.
+
+
+
+[1
+
+
+
+]
+
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/sl' in size <10.95> not avai
+lable
+(Font)              Font shape `TU/XBNiloofar(0)/m/it' tried instead on input l
+ine 25.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/it' will be
+(Font)              scaled to size 10.95pt on input line 25.
+[2
+
+]
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
+(Font)              scaled to size 24.88pt on input line 25.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
+(Font)              scaled to size 24.88pt on input line 25.
+
+No file main.toc.
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+
+
+[3]
+
+[4
+
+]
+\openout2 = `chapters/chapter_1.aux'.
+
+ (./chapters/chapter_1.tex
+فصل 1.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
+(Font)              scaled to size 20.74pt on input line 3.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
+(Font)              scaled to size 20.74pt on input line 3.
+
+LaTeX Font Warning: Font shape `TU/XBNiloofar(1)/b/n' undefined
+(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 3.
+
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
+(Font)              scaled to size 14.4pt on input line 7.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
+(Font)              scaled to size 14.4pt on input line 7.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
+(Font)              scaled to size 10.95pt on input line 12.
+)
+
+[1
+
+
+]
+
+
+LaTeX Font Warning: Font shape `TU/XBNiloofar(1)/m/sl' undefined
+(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 33.
+
+[2
+
+
+
+] (./main.aux (./chapters/chapter_1.aux))
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6495 strings out of 475402
+ 189442 string characters out of 5765234
+ 586425 words of memory out of 5000000
+ 29387 multiletter control sequences out of 15000+600000
+ 561853 words of font info for 80 fonts, out of 8000000 for 9000
+ 264 hyphenation exceptions out of 8191
+ 99i,8n,107p,981b,279s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on main.pdf (6 pages).
